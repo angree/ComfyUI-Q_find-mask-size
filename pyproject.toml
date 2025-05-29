@@ -12,6 +12,6 @@ dependencies = [
 Repository = "https://github.com/angree/ComfyUI-Q_find-mask-size"
 
 [tool.comfy]
-PublisherId = "angree"  # Twój publisher ID z Registry
+PublisherId = "angree"
 DisplayName = "Q Find Mask Size"
 
